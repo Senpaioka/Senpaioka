@@ -1,7 +1,16 @@
 <h1 align="center">Hi 👋, I'm Abdul Mannan</h1>
 <h3 align="center">Python Programmer | Web Developer | Full Stack Developer | Data Analyst</h3>
 
+
+
+
+
+
 <h3 align="left">Languages and Tools:</h3>
+
+
+
+
 
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
