@@ -45,5 +45,5 @@
 </p>
 
 <p>Visit My Portfolio:<p/>
-<a href="https://senpaioka.github.io/portfolio/ target='_blank'>Portfolio<a/>
+<a href="https://senpaioka.github.io/portfolio/" target='_blank'>Portfolio<a/>
 
