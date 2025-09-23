@@ -2,10 +2,16 @@
 # Hi 👋, I'm Abdul Mannan
 ### 🚀 Python/JavaScript Programmer | Full Stack Web Developer | Data Analyst  
 
+<br>
+
 ## 🙂 About Me:
 Hello! I’m Abdul Mannan, a motivated and detail-oriented full stack web developer. i am 
 good at building secure and modern looking website with Django, Flask, Fast API or single page
 application using React or Vuejs.
+
+![LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=Senpaioka&layout=compact&theme=tokyonight)
+
+<br>
 
 ## 🖥️ Tech Stack:
 
@@ -91,6 +97,8 @@ application using React or Vuejs.
 ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![WINDOWS 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
 
+<br>
+
 ## 🌐 Checkout My Profiles
 
 [![PORTFOLIO](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://senpaioka.github.io/portfolio/)
@@ -99,5 +107,25 @@ application using React or Vuejs.
 [![CREDLY](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/senpaioka)
 
 
+<br>
+
+<!-- Trophies -->
+## 🏆 GitHub Trophies
+![TROPHIES](https://github-profile-trophy.vercel.app/?username=Senpaioka&theme=radical&no-frame=true&no-bg=false&margin-w=4&theme=tokyonight)
+
+<br>
+
+<!-- STATS -->
+## 📈 GitHub Statistics
+![STATS](https://github-readme-stats.vercel.app/api?username=Senpaioka&show_icons=true&theme=tokyonight)
+![STREAK](https://nirzak-streak-stats.vercel.app/?user=Senpaioka&theme=dark&hide_border=false&theme=tokyonight)
+
 
 <!-- preview ReadMe.md file in vscode using: Ctrl + Shift + V -->
+
+
+
+
+
+
+
