@@ -9,8 +9,6 @@ Hello! I’m Abdul Mannan, a motivated and detail-oriented full stack web develo
 good at building secure and modern looking website with Django, Flask, Fast API or single page
 application using React or Vuejs.
 
-![LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=Senpaioka&layout=compact&theme=tokyonight)
-
 <br>
 
 ## 🖥️ Tech Stack:
@@ -117,8 +115,21 @@ application using React or Vuejs.
 
 <!-- STATS -->
 ## 📈 GitHub Statistics
-![STATS](https://github-readme-stats.vercel.app/api?username=Senpaioka&show_icons=true&theme=tokyonight)
-![STREAK](https://nirzak-streak-stats.vercel.app/?user=Senpaioka&theme=dark&hide_border=false&theme=tokyonight)
+
+<!-- ![STREAK](https://nirzak-streak-stats.vercel.app/?user=Senpaioka&theme=dark&hide_border=false&theme=tokyonight) -->
+<!-- ![LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=Senpaioka&layout=compact&theme=tokyonight) -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Senpaioka&show_icons=true&theme=tokyonight" width="60%">
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Senpaioka&theme=dark&hide_border=false&theme=tokyonight" width="60%" alt="STREAK">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senpaioka&layout=compact&theme=tokyonight" width="40%" alt="LANGUAGES">
+</p>
 
 
 <!-- preview ReadMe.md file in vscode using: Ctrl + Shift + V -->
